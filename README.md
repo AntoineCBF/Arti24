@@ -1,2 +1,25 @@
 # Arti24
-Site web de mise en relation entre les artisans et les particuliers en cas d'ugence
+
+Ce site web a pour but de mettre en relation les artisans et les particuliers en cas d'ugence (Cas de pannes, fuites, etc...)
+Personnellement, c'était l'occasion pour moi de prendre en main le langage de programmation back-end PHP ainsi que le langage de requête SQL.
+
+## Requirements
+Pour faire tourner ce projet en local, j'ai utilisé une Base de donnée MySQL ainsi qu'un serveur Web (Apache).
+
+Voici la description des différentes sections de ce projet:
+
+## Overview
+Pour comprendre le fonctionnement du projet, j'ai établit deux schémas qui sont ma ligne directrice de ce projet. Ils sont disponibles dans la section Annexe mais vous pourrez les retrouver ci-dessus.
+
+### Schéma de l'infrastructure 
+Dans ce document, vous retrouverez l'ensemble des pages du site Web qui doivent être affichées. En l'état, elles existent toutes mais il n'y a aucune fiche de style, on retrouve donc uniquement la structure.
+
+![Overview](Annexe/Projet_Arti24.png "Structure du projet")
+
+### Schéma de la BDD
+
+##
+
+##
+
+##
