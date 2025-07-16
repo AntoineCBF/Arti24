@@ -21,8 +21,20 @@ De la même manière pour la base de donnée, le document suivant explique gross
 
 ![Overview](Annexe/Bases_De_donnees_Arti24.png "Structure de la BDD")
 
-##
+Ce schéma suit le principe de l'UML, de manière grossière.
 
-##
+## Connexion
+Ce répertoire contient les pages concernant l'affichage des formulaires de connexion et d'inscription des artisans et particuliers. 
 
-##
+ + Le fichier **config.php** s'occupe de la connexion à la base de donnée (oui les identifiants sont en clair mais pas de chance pour vous la base tourne en local hehe)
+ + Le fichier **connexion.php** traite la demande de connexion, et connecte l'utilisateur si le mot de passe et le nom d'utilisateur correspondent à une entrée de la BDD
+ + Le fichier **function.php** contient une floppée de fonctions qui permettent l'affichage et la vérification de différente donnée insérée par l'utilisateur.
+ + Le fichier **inscription.php** insère les données relatives à l'inscription d'un utilisateur dans la BDD. C'est un point sensible niveau sécurité.
+ + Le fichier **login.php** affiche la page de connexion pour les artisans et particuliers. Une fois n'est pas coutume, les logins sont en clair en commentaire du document pour simplifier la phase de test. 
+ + Le fichier **register.php** affiche la page d'inscription des artisans et particuliers.
+
+## Espace Artisan
+
+## Espace Particulier
+
+## Traitement
