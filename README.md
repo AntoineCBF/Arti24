@@ -17,6 +17,9 @@ Dans ce document, vous retrouverez l'ensemble des pages du site Web qui doivent 
 ![Overview](Annexe/Projet_Arti24.png "Structure du projet")
 
 ### Schéma de la BDD
+De la même manière pour la base de donnée, le document suivant explique grossièrement la structure de la base de donnée. Il se peut que certains changements aient été effectué en pratique sur la base de donnée mais que le schéma n'ait pas été corrigé. La création de toutes les tables de la BDD se situe dans le fichier [scriptSQL](ScriptSQL/createTable2.sql).
+
+![Overview](Annexe/Projet_Arti24.png "Structure de la BDD")
 
 ##
 
