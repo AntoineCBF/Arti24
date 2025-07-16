@@ -1,0 +1,86 @@
+Nom : Arti'24, (Couleur Rouge+bleue, Bleu :#313286, Rouge : #FF3131)
+
+Corps métier
+Type d'urgence
+Prix (détail en fonction de la position (0.4€ ou 0.57€ par kil), horaires)
+Page : Qui sommes nous ?
+
+
+1 : Client Choisir le corps de métier (corps, mots-clefs)
+2 : mots-clées : fuite, clées-cassée
+---> Soit des cases (Edgar) (autres)
+---> Soit barre de recherche (auto-complétion ?)
+
+3-
+Confirmation quand tu cliques sur une case : Adresse postale (ou autre)
+Et ou faire un compte (prénom/nom/mail/Adresse postale)
+--> Faire un compte différent Client/Artisan 
+
+Pour compte Artisan: (choisir jusqu'à ou est-il pret à intervenir), RIB, Corps de métier,
+Sur quelles interventions peux-tu intervenir?
+Pouvoir définir des horaires pour chaque type d'urgence.
+
+
+4- Affichage des Artisans
+
+
+Ou toi dire quand t es disponible puis matcher les Artisans Nom/Entreprise disponibles (liste Avis sur les Artisans)
+ou le plus proche.
+L'artisan choisit des horaires + horaires d'urgences.
+Le client définie le créneaux.
+Gars disponible avec les horaires (avec horaires idéaux de passage)
+Quand rendez-vous fixé, ca bloque la plage horraire.
+Chaque type d'urgences bloquent une durée définiee sur la plage horraire de l'Artisan.
+En fonction des mots clées définir prix
+
+Il faudrait filtrer/ordonner l'affichage des Artisans en fonction de la proximité par rapport l'adresse du client.
+(peut etre filtrer en fonction des Avis)
+
+5- Quand tu cliques sur l'Artisan, cela te propose à quelle heure tu le veux.
+Mais l'horraire doit prendre en compte la durée définie par l'urgence. (+/-/OK pop-up)
+
+
+6- Une fois que l'horraire est validée, Récapitulatif avec Horraire, Adresse, Nom Artisan, Tarifs.
+
+
+
+7- Un fois que tu as validé, l'artisan recoit une notif (mail, tèl si possible) lui disant, adresse, horraire, (Tarifs de la presta)
+(il faut que le mec valide?)
+
+
+8- Le client et l'artisan valide que la presta s'est bien passée
+Quand l'artisan finit la presta et valide , cela demande au client de valider
+--> L'Artisan doit pouvoir signaler si l'urgence a été sous-estimé ( appeler la boite / mettre des photos ).
+
+9- Quand le client valide Donne un avis (+ Commentaire Facultatif?)
+
+
+10- Le versement se fait à la fin.
+(Quand tu finis prise de photos des travaux), Avis (pas obligatoire)
+
+
+11- Envoie un mail 48h apres pour proposer de laisser un avis (Commentaire).
+
+
+
+**Tarifs (Fixer un prix (en fonction du horraire, éloignement, type urgence))
+
+
+
+
+INTERFACE PRO :
+Compte Rendu + PorteFeuille :
+Avantage PorteFeuille = Trésorerie
+
+
+
+Soit : - Chaque presta, 15% de commissions sur TTC : Pouvoir passer en abonnement quand on veut
+Mode premium :
+Soit : - Abonnement mensuel : Plus de commissions
+	Montant forfaire mensuel (299€ HT)
+TVA 10% de la presta
+1.10 * presta HT = prix TTC
+Détail dans le portefeuille de l'Artisan : TVA récupérable
+
+
+
