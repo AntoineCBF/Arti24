@@ -23,6 +23,9 @@ De la même manière pour la base de donnée, le document suivant explique gross
 
 Ce schéma suit le principe de l'UML, de manière grossière.
 
+## Home
+La page d'accueil explique le fonctionnement du site Web et des besoins qu'il résout. On y retrouve par example des avis de particuliers satisfait. Il permet aussi la connexion et/ou l'inscription au site.
+
 ## Connexion
 Ce répertoire contient les pages concernant l'affichage des formulaires de connexion et d'inscription des artisans et particuliers. 
 
@@ -34,7 +37,24 @@ Ce répertoire contient les pages concernant l'affichage des formulaires de conn
  + Le fichier **register.php** affiche la page d'inscription des artisans et particuliers.
 
 ## Espace Artisan
+Ce répertoire contient les pages une fois qu'un artisan se connecte au site web.
+
+ + Le fichier **artisan.php** s'occupe du traitement des données lorsque l'artisan modifie son profil
+ + Le fichier **homepageArtisan.php** est la page d'accueil de l'artisan. Il peut ici modifier toutes les données qu'il a inséré à l'inscription (horraire de travail, type d'intervention à effectuer, périmètre d'intervention, RIB...)
+ + Le fichier **monEspaceArtisan.php** contient l'ensemble des données les plus importantes pour un artisan (sa note globale, les prochaines interventions prévues, les avis des précédents clients...)
+ + Le fichier **profilArtisan.php** est une page n'est pas encore construite, mais qui devait permettre aux particuliers de consulter le profil des artisans
 
 ## Espace Particulier
+Ce répertoire contient les pages une fois qu'un particulier se connecte au site web.
+
+ + Le fichier **function.js** est un script utilisé dans la page d'accueil pour simplifier la visualisation des informations importantes (permet la création d'un pop up).
+ + Le fichier **homepageParticulier.php** est la page d'accueil, c'est ici qu'un particulier peut spécifier les informations recherchées par le particulier pour l'intervention d'un Artisan.
+ + Le fichier **monEspaceParticulier.php** permet de visualier les futures interventions à venir avec les Artisans.
+ + Le fichier **recapIntervention.php** n'a pas encore été créé, mais comme son nom l'indique ce sera une page récapitulive de l'intervention qui sera effectué.
+ + Le fichier **selecArtisan.php** affiche les artisans compatibles avec les critères recherchés, puis permet au particulier de choisir son artisan favori. 
 
 ## Traitement
+Ce répertoire contient deux fichiers qui ont pour but de traiter les données lorsqu'un particulier fait une recherche d'artisan pour une intervention. En gros, cela permet de selectionner les artisans qui correspondent au critères du particulier dans la base de donnée
+
+## Suite du projet
+Ce projet est toujours en cours de construction et n'est pas du terminé. La majeure partie du travail à faire reste la partie front, car aucun style n'a été intégré à ce jour.
