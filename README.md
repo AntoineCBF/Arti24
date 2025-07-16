@@ -9,7 +9,7 @@ Pour faire tourner ce projet en local, j'ai utilisé une Base de donnée MySQL a
 Voici la description des différentes sections de ce projet:
 
 ## Overview
-Pour comprendre le fonctionnement du projet, j'ai établit deux schémas qui sont ma ligne directrice de ce projet. Ils sont disponibles dans la section Annexe mais vous pourrez les retrouver ci-dessus.
+Pour comprendre le fonctionnement du projet, j'ai établit deux schémas qui sont ma ligne directrice de ce projet. Ils sont disponibles dans la section Annexe mais vous pourrez les retrouver ci-dessous.
 
 ### Schéma de l'infrastructure 
 Dans ce document, vous retrouverez l'ensemble des pages du site Web qui doivent être affichées. En l'état, elles existent toutes mais il n'y a aucune fiche de style, on retrouve donc uniquement la structure.
@@ -24,7 +24,7 @@ De la même manière pour la base de donnée, le document suivant explique gross
 Ce schéma suit le principe de l'UML, de manière grossière.
 
 ## Home
-La page d'accueil explique le fonctionnement du site Web et des besoins qu'il résout. On y retrouve par example des avis de particuliers satisfait. Il permet aussi la connexion et/ou l'inscription au site.
+La page d'accueil explique le fonctionnement du site Web et des besoins qu'il résout. On y retrouve par exemple des avis de particuliers satisfait. Il permet aussi la connexion et/ou l'inscription au site.
 
 ## Connexion
 Ce répertoire contient les pages concernant l'affichage des formulaires de connexion et d'inscription des artisans et particuliers. 
